@@ -12,6 +12,10 @@ h1 {
   font-style: italic;
 }
 
+.dogs li{
+  padding-top: 20px;
+}
+
 .cats{
   float: right;
   width: 300px;
@@ -21,15 +25,20 @@ h1 {
 .cats p{
   font-style: bold;
 }
+.cats li{
+  padding-top: 20px;
+}
 
 .birds{
   float: right;
   width: 300px;
   background-color: green;
 }
-
 .birds p{
   font-style: italic;
+}
+.birds li{
+  padding-top: 20px;
 }
 
 .rodents{
@@ -38,9 +47,11 @@ h1 {
   background-color: yellow;
 
 }
-
 .rodents p{
   font-style: bold;
+}
+.rodents li{
+  padding-top: 20px;
 }
 
 .reptiles{
@@ -51,6 +62,9 @@ h1 {
 
 .reptiles p{
   font-style: italic;
+}
+.reptiles li{
+  padding-top: 20px;
 }
 
 #email{
