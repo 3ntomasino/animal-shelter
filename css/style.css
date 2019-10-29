@@ -1,38 +1,62 @@
 h1 {
-  color: blue;
+  font-weight: bolder;
 }
 
 .dogs{
   float: right;
   width: 300px;
+  background-color: skyblue;
+}
+
+.dogs p{
+  font-style: italic;
 }
 
 .cats{
   float: right;
   width: 300px;
+  background-color: purple;
+}
 
+.cats p{
+  font-style: bold;
 }
 
 .birds{
   float: right;
   width: 300px;
+  background-color: green;
+}
 
+.birds p{
+  font-style: italic;
 }
 
 .rodents{
   float: right;
   width: 300px;
+  background-color: yellow;
 
+}
+
+.rodents p{
+  font-style: bold;
 }
 
 .reptiles{
   float: right;
   width: 300px;
+  background-color: red;
+}
 
+.reptiles p{
+  font-style: italic;
 }
 
 #email{
   float: right;
+  text-align: center;
+  padding-right: 20px;
 }
 
 img{
