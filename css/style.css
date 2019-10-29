@@ -1,3 +1,41 @@
 h1 {
   color: blue;
 }
+
+.dogs{
+  float: right;
+  width: 300px;
+}
+
+.cats{
+  float: right;
+  width: 300px;
+
+}
+
+.birds{
+  float: right;
+  width: 300px;
+
+}
+
+.rodents{
+  float: right;
+  width: 300px;
+
+}
+
+.reptiles{
+  float: right;
+  width: 300px;
+
+}
+
+#email{
+  float: right;
+}
+
+img{
+  width: 300px;
+  height: 250px;
+}
