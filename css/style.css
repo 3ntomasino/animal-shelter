@@ -1,10 +1,12 @@
 h1 {
-  font-weight: bolder;
+  font-weight: bold;
+  padding-top: 10px;
+  text-align: center;
 }
 
 .dogs{
   float: right;
-  width: 300px;
+  width: 250px;
   background-color: skyblue;
 }
 
@@ -13,12 +15,12 @@ h1 {
 }
 
 .dogs li{
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .cats{
   float: right;
-  width: 300px;
+  width: 250px;
   background-color: purple;
 }
 
@@ -26,24 +28,24 @@ h1 {
   font-style: bold;
 }
 .cats li{
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .birds{
   float: right;
-  width: 300px;
+  width: 250px;
   background-color: green;
 }
 .birds p{
   font-style: italic;
 }
 .birds li{
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .rodents{
   float: right;
-  width: 300px;
+  width: 250px;
   background-color: yellow;
 
 }
@@ -51,12 +53,12 @@ h1 {
   font-style: bold;
 }
 .rodents li{
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .reptiles{
   float: right;
-  width: 300px;
+  width: 250px;
   background-color: red;
 }
 
@@ -64,18 +66,18 @@ h1 {
   font-style: italic;
 }
 .reptiles li{
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 #email{
   float: right;
   text-align: center;
-  padding-right: 20px;
+  padding-right: 10px;
 }
 
 img{
-  width: 300px;
-  height: 250px;
+  width: 250px;
+  height: 200px;
 }
 
 @media screen and (max-width:768px) {
@@ -84,7 +86,7 @@ body{
 
 }
 p {
-  color:white
+  color: white;
 }
 .rodents p{
   color: green;
